@@ -1,0 +1,11 @@
+{
+  "login-valid-data": {
+    "userName": "standard_user",
+    "password": "secret_sauce"
+  },
+
+  "login-invalid-data": {
+    "userName": "Youssef",
+    "password": "Abdellah"
+  }
+}
